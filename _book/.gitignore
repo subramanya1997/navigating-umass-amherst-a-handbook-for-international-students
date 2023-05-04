@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.DS_Store
+auto_page_creation.ipynb
+update.sh
+node_modules/*
+package-lock.json
+_book/gitbook/gitbook-plugin-livereload/*
+_book/ga_tag*
