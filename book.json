@@ -1,0 +1,8 @@
+{
+    "title": "Navigating UMass Amherst: A Handbook for International Students",
+    "description": "A handbook for international students at UMass Amherst",
+    "author": "Subramanya Nagabhushanaradhya",
+    "language": "en",
+    "honkit": ">=3.0.0",
+    "root": "./"
+}
