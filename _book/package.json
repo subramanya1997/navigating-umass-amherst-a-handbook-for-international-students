@@ -17,5 +17,9 @@
         "build": "honkit build",
         "serve": "honkit serve"
     },
-    "homepage": "http://subramanya.ai/navigating-umass-amherst-a-handbook-for-international-students/"
+    "homepage": "http://subramanya.ai/navigating-umass-amherst-a-handbook-for-international-students/",
+    "dependencies": {
+        "honkit-plugin-robots": "^1.0.1",
+        "honkit-plugin-sitemap": "^1.0.2"
+    }
 }

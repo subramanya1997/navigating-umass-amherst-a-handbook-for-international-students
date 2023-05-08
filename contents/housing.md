@@ -1,5 +1,0 @@
-## Off-Campus Housing
-
-Securing affordable off-campus housing as an international student at UMass Amherst can be a challenging task, especially amidst the Amherst housing crisis. To navigate this competitive landscape, it's vital to understand the best times to search, sources for housing listings, and key factors to consider such as location, amenities, and cost. Additionally, the process involves identifying compatible roommates and assessing the pros and cons of various housing options. Armed with this information, you can effectively strategize, make well-informed decisions, and find a living arrangement that not only fits your budget but also supports your academic goals and enriches your overall experience. Now, let's take a look at this map showing all the potential off-campus housing locations.
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1hYEPTFG40_GQOQqeqvbkQyorULfSKYw&ehbc=2E312F" width="640" height="480"></iframe>

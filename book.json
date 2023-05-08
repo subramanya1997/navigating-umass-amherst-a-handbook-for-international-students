@@ -4,5 +4,15 @@
     "author": "Subramanya Nagabhushanaradhya",
     "language": "en",
     "honkit": ">=3.0.0",
-    "root": "./"
+    "root": "./",
+    "plugins": ["sitemap", "honkit-plugin-robots"],
+    "pluginsConfig": {
+        "sitemap": {
+            "url": "https://subramanya.ai",
+            "pathSuffix": "/navigating-umass-amherst-a-handbook-for-international-students/"
+        },
+        "robots": {
+            "data": ["User-agent: *", "Disallow:"]
+        }
+    }
 }

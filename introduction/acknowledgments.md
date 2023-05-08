@@ -4,7 +4,7 @@ This handbook would not have come to fruition without the invaluable assistance 
 
 A heartfelt thank you to:
 
-- [Basundhara Chakrabarty](https://www.linkedin.com/in/basundhara1706/), [OpenAI's ChatGPT](https://chat.openai.com/).
+- [Basundhara Chakrabarty](https://www.linkedin.com/in/basundhara1706/), [OpenAI's ChatGPT](https://chat.openai.com/), Swetha, Abhilasha Lodha, Sidharth Anupkrishnan, Ananya Kamboj, [Disha Chiplonker](https://www.linkedin.com/in/disha-03-chiplonker/), Pragun Mangla.
 
 Again, thank you to everyone who has played a part in this journey. Your contributions have made this handbook a reality.
 
