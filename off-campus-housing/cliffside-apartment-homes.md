@@ -8,10 +8,11 @@ On the map, it's conveniently represented here:
 <iframe src="https://www.google.com/maps/d/embed?mid=1Bxs2VSckaAM3RckWbT4BX5wesdZX9cA&ehbc=2E312F" width="780" height="540"></iframe>
 
 #### Key Information
-- **Price Range:** The monthly rent varies from $1,250 to $2,000.
-- **Bus Routes:** The property is located on the route of Bus 22.
+- **Price Range:** The monthly rent varies from $1,400 to $2,400.
+- **Bus Routes:** The property is located on the route of Bus 31.
 - **Contact:** For further details, please visit their [website](https://cliffsideapts.com) or call at [413-549-0145](tel:413-549-0145).
 - **Apartment Types:** They offer 1 bedroom, 1 bathroom; 2 bedrooms, 1 bathroom; and 3 bedrooms, 1 bathroom apartments.
+- **Additional Comments:** While living in the living room space might be more affordable, it's important to consider the potential drawbacks, such as a lack of privacy and increased noise levels. It might be worth spending a bit more to secure a separate room in order to maintain a more comfortable and peaceful living environment
 
 #### Floor Plans
 | Image | Square Feet | Configuration |
@@ -24,4 +25,4 @@ On the map, it's conveniently represented here:
 Note: 
 *All ratings mentioned are on a scale of 5.
 
-*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached [here](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
+*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*

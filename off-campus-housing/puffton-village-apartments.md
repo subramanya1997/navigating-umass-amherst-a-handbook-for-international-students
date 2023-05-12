@@ -12,15 +12,16 @@ On the map, it's conveniently represented here:
 - **Bus Routes:** The property is located on the routes of Bus 30, 31, and 46.
 - **Contact:** For further details, please visit their [website](https://www.pufftonvillage.com) or call at [413-549-0145](tel:413-549-0145).
 - **Apartment Types:** They offer 1 bedroom/1 bathroom, 2 bedroom/1.75 bathroom, 3 bedroom/1 bathroom, and 3 bedroom/2 bathroom apartments.
+- **Additional Comments:** While living in the living room space might be more affordable, it's important to consider the potential drawbacks, such as a lack of privacy and increased noise levels. It might be worth spending a bit more to secure a separate room in order to maintain a more comfortable and peaceful living environment
 
 #### From an individual tenant's perspective, here's a breakdown
 - **Rent Amount:** A living room space ranges from $400 - $500 while a separate room varies between $600-$700.
-- **Number of Roommates:** The number of people in an apartment ranges from 2 - 4.
+- **Number of Roommates:** The number of people in an apartment is usually 2 - 4.
 - **Proximity to Amenities:** Puffton Village earns a 4* rating for its proximity to amenities.
-- **Commute Rating:** With a rating of 4*, commuting from Puffton Village is relatively convenient.
-- **Likes:** The most appreciated aspects include the affordable rent, social atmosphere, close proximity to campus, and easy access to public transportation.
-- **Dislikes:** Residents have mentioned a few concerns, including dated apartments, slow maintenance responses, poor communication from management, and occasional noise issues.
-- **Overall Satisfaction:** Considering all factors, Puffton Village holds a decent satisfaction rating of 3.5*.
+- **Commute Rating:** With a rating of 4*, commuting from Puffton Village is quite convenient.
+- **Likes:** Tenants appreciate the ease of commute, good maintenance services, and proximity to grocery and convenience stores.
+- **Dislikes:** Some tenants have had negative experiences with roommates, but no major dislikes about the place itself.
+- **Overall Satisfaction:** Taking all factors into account, Puffton Village holds a satisfactory rating of 4*.
 
 #### Floor Plans
 | Image | Square Feet | Configuration |
@@ -34,4 +35,4 @@ On the map, it's conveniently represented here:
 Note: 
 *All ratings mentioned are on a scale of 5.
 
-*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached [here](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
+*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
