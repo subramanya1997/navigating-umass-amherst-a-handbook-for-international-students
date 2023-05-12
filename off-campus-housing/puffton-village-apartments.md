@@ -1,6 +1,6 @@
 ### Puffton Village Apartments
 
-Puffton Village, nestled in North Amherst, is a vibrant, pet-friendly residential community that holds high appeal for a diverse range of residents, including undergraduate and graduate students, faculty members, and international scholars. The community is noted for its lively, student-friendly atmosphere. The residences primarily comprise of multi-bedroom units, all set amidst an engaging and dynamic environment.
+Puffton Village, nestled in North Amherst, is a vibrant residential community that holds high appeal for a diverse range of residents, including undergraduate and graduate students, faculty members, and international scholars. The community is noted for its lively, student-friendly atmosphere. The residences primarily comprise of multi-bedroom units, all set amidst an engaging and dynamic environment.
 
 Despite being an older community, Puffton Village has remained a preferred choice for many due to its affordable rent, social atmosphere, and access to the PVTA bus route. Additionally, its prime location places it within comfortable reach of downtown Amherst and various grocery stores, shopping centers, and restaurants.
 

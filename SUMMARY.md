@@ -6,6 +6,11 @@
     * [About the Author](introduction/about-the-author.md)
     * [Contribute](introduction/contribute.md)
 
+* [Academics and Career Opportunities](academics-careers/academics-and-career-opportunities.md)
+    * [Course Selection](academics-careers/course-selection.md)
+    * [Beyond Coursework](academics-careers/beyond-coursework.md)
+    * [The Job and Internship Hunt](academics-careers/the-job-and-internship-hunt.md)
+
 * [Off-Campus Housing](off-campus-housing/housing.md)
     * [ReNew Amherst](off-campus-housing/renew-amherst.md)
     * [The Boulders](off-campus-housing/the-boulders.md)
