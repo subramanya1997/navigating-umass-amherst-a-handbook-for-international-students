@@ -2,7 +2,9 @@
 Experience a blend of convenience and comfort at Spruce Ridge, a contemporary residential community located in the lively Amherst area. Offering spacious 4-bedroom, 2.5-bathroom apartments, Spruce Ridge caters to the needs of students, young professionals, and families looking for an inviting living experience. With easy access to Bus 30 and a short walk to downtown Amherst, where you can catch Bus 31, 33, and B43, residents enjoy seamless connections to UMass Amherst, Amherst College, Hampshire College, and a variety of local amenities.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1ZuPtccVrH6zK7M7rUm_tvPjXHGK-8W4&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1ZuPtccVrH6zK7M7rUm_tvPjXHGK-8W4&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $3,100 to $3,400.

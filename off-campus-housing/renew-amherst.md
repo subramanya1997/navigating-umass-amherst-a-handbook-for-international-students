@@ -5,7 +5,9 @@ ReNew Amherst provides a serene and friendly living environment for residents. T
 Despite its somewhat secluded location and the lack of grocery stores within walking distance, The Boulders has remained a preferred choice for many due to its reasonably priced rent, welcoming community, and easy access to the PVTA bus route. Moreover, its prime location places it within comfortable reach of downtown Amherst, UMass Amherst, Amherst College, and Hampshire College.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1ddSS7rcQ2SjvY_cZP1IOnM1r2MgYfZU&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1ddSS7rcQ2SjvY_cZP1IOnM1r2MgYfZU&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $2,050 to $3,300.

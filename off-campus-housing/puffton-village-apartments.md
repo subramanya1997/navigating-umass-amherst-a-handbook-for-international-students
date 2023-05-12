@@ -5,7 +5,9 @@ Puffton Village, nestled in North Amherst, is a vibrant, pet-friendly residentia
 Despite being an older community, Puffton Village has remained a preferred choice for many due to its affordable rent, social atmosphere, and access to the PVTA bus route. Additionally, its prime location places it within comfortable reach of downtown Amherst and various grocery stores, shopping centers, and restaurants.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=15l3_Fg-PRKBA7TZ2xZVGxlS2a8NCkJE&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=15l3_Fg-PRKBA7TZ2xZVGxlS2a8NCkJE&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $1,200 to $2,500.

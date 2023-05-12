@@ -5,7 +5,9 @@ Located in the tranquil setting of South Amherst, The Boulders is a multicultura
 Despite its somewhat secluded location and the lack of grocery stores within walking distance, The Boulders has remained a preferred choice for many due to its reasonably priced rent, welcoming community, and easy access to the PVTA bus route. Moreover, its prime location places it within comfortable reach of downtown Amherst, UMass Amherst, Amherst College, and Hampshire College.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1kU2N9nEYh9XInt5QQKhio9AR7L8OHEk&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1kU2N9nEYh9XInt5QQKhio9AR7L8OHEk&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $1,900 to $2,250.

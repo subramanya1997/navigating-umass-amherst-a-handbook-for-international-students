@@ -4,7 +4,9 @@ Lantern Court Apartments is a sought-after residential community that offers a c
 Although the property may not be within walking distance to major grocery stores, its convenient location, easy commute, and well-maintained surroundings make it a popular choice for many. Tenants appreciate the spacious rooms, short distance to bus stops, and the overall satisfactory living experience. With a dedicated staff ready to address any concerns, Lantern Court Apartments is an excellent option for those seeking a peaceful yet accessible living environment in Amherst.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1QJ3RH8kCqnsuyJUxB1H_NRVGQQwBT-s&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1QJ3RH8kCqnsuyJUxB1H_NRVGQQwBT-s&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $1,450 to $1,600.

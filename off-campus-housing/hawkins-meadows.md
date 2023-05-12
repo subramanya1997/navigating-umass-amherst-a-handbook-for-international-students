@@ -4,7 +4,9 @@ Hawkins Meadows is a welcoming residential community that features a variety of 
 Having a car can be useful when living here, but don't worry if you don't have one, as the B43 bus route is conveniently close by. This connects you to UMass Amherst, Amherst College, and Hampshire College with ease. Additionally, a range of local amenities, including grocery stores and restaurants, are just a short drive away. At Hawkins Meadows, you'll discover the perfect balance of peaceful living and easy accessibility, making your living experience genuinely delightful.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1ddaboeofMQ9-BKkwyxwXMSxilOcPri0&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1ddaboeofMQ9-BKkwyxwXMSxilOcPri0&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent at Hawkins Meadows varies from $1,575 to $1,875.

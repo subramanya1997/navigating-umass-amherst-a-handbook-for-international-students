@@ -3,7 +3,9 @@
 Brandywine Apartments is a pet-friendly residential community located near the campus, offering a wide range of convenient amenities. It caters to a diverse group of residents, including undergraduates, graduate students, visiting professors, and international students, and is renowned for its academic-friendly environment. The apartments consist of one-bedroom and two-bedroom units, surrounded by beautiful grounds. The complex features a swimming pool, private parking, central air conditioning, private balconies, and on-site laundry facilities. Conveniently situated on the free bus line, Brandywine Apartments provides easy access to University of Massachusetts Amherst and other nearby amenities. Rent includes heat, hot water, and cooking gas. Due to its popularity, the apartments are often fully occupied, so it's advisable to seize an available spot when possible. Additionally, various local establishments such as the Indian grocery store, Crestview Plaza, House of Teriyaki, and the UMass campus are within a 25-minute walking distance from the property.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1HEaX8vdijlD_gKHeb7wShRcyAxHuFdQ&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1HEaX8vdijlD_gKHeb7wShRcyAxHuFdQ&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent ranges from $1,580 to $2,010.

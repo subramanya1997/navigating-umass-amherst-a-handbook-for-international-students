@@ -4,7 +4,9 @@ Situated in North Amherst, the family-oriented residential community of North Sq
 North Square Apartments is within walking distance to parks, bus stops, ample parking, and a shopping area. Additionally, it is just a 30-minute walk from the university, making it an ideal choice for those studying or working on campus. The maintenance team ensures the cleanliness and safety of the property, further enhancing the overall living experience.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1fakV72YJx0FfuMPGMbV9bHQOkcHJFyQ&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1fakV72YJx0FfuMPGMbV9bHQOkcHJFyQ&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $1,950 to $3,175.

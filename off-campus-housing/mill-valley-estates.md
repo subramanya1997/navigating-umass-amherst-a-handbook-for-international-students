@@ -5,7 +5,9 @@ Situated in a quiet, wooded area of Amherst, Mill Valley Estates is a pet-friend
 Although it is not located within walking distance to major grocery stores, Mill Valley Estates is still a popular choice due to its fair rent prices, friendly staff, and safe surroundings. Additionally, the property is conveniently located near the PVTA bus route, providing easy access to UMass Amherst, Amherst College, Hampshire College, and downtown Amherst.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1GA085j-p4b-wwXA2ZMxiOw4r6zIhJ4E&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1GA085j-p4b-wwXA2ZMxiOw4r6zIhJ4E&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $2,500 to $3,550.

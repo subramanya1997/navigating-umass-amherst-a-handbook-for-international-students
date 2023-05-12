@@ -5,7 +5,9 @@ Situated within walking distance from the UMass campus, Crestview Apartments is 
 Crestview Apartments is a preferred choice for many due to its affordable rent and friendly community atmosphere. Its convenient location makes it an ideal choice for students and young professionals seeking easy access to the campus and nearby amenities.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1qHqriwktp3OKwmJNfoGtU0UCUVid8_w&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1qHqriwktp3OKwmJNfoGtU0UCUVid8_w&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $1,350 to $1,550.

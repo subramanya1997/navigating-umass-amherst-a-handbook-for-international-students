@@ -2,7 +2,9 @@
 Center East Commons offers a comfortable and contemporary living experience for its residents. This sought-after community boasts 2-bedroom, 1-bathroom apartments, catering to the needs of students, young professionals, and families alike. With a prime location within walking distance to downtown Amherst and easy access to Bus 30, Bus 31, and B43, residents enjoy a seamless connection to UMass Amherst, Amherst College, Hampshire College, and an array of local amenities.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1aePsQOowOWH1rPzIUEzNIPQKurd3jjs&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1aePsQOowOWH1rPzIUEzNIPQKurd3jjs&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $1,800 to $2,250.

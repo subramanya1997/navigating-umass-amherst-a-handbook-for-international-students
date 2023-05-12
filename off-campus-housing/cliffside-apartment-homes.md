@@ -5,7 +5,9 @@ Cliffside Apartments is a serene, pet-friendly residential community. With a mix
 Adding to its charm, Cliffside Apartments boasts of a prime location, placing it within comfortable walking distance of key local establishments. Residents can enjoy the convenience of having Sunderland Market, Subway, and Dunkin' just a short stroll away. This proximity to local amenities, coupled with its serene ambiance, makes Cliffside Apartments the perfect choice for those seeking a balanced, convenient, and peaceful residential experience.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1Bxs2VSckaAM3RckWbT4BX5wesdZX9cA&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1Bxs2VSckaAM3RckWbT4BX5wesdZX9cA&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $1,400 to $2,400.

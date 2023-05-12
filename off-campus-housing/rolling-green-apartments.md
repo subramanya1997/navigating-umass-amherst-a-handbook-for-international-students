@@ -4,7 +4,9 @@ Rolling Green Apartments is a pet-friendly residential community that offers a c
 Though not within walking distance to major grocery stores, Rolling Green Apartments remains a popular choice for many due to its beautiful surroundings, friendly neighbors, and attentive maintenance team. Residents enjoy the serene atmosphere, stunning sunsets, and ample amenities this welcoming community has to offer. Experience a truly satisfying and comfortable living experience at Rolling Green Apartments.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1rZiyvcIpwlTM4Zofqmo72UoPN6mK0sA&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1rZiyvcIpwlTM4Zofqmo72UoPN6mK0sA&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent varies from $1,970 to $3,665.

@@ -4,7 +4,9 @@ Located just half a mile from the UMass campus on North Pleasant Street, Preside
 While some tenants have reported issues with occasional loud parties and slow maintenance responses, many appreciate the effective maintenance staff, newly renovated apartments, and the property's close proximity to the campus and the PVTA bus route. However, it is important to consider the potential drawbacks, such as a lack of air conditioning.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1Fl1ReZ-uF4ZKV6Dw157kiqu1IpTsHag&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1Fl1ReZ-uF4ZKV6Dw157kiqu1IpTsHag&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price:** The monthly rent is $1,800.

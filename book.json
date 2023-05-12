@@ -14,5 +14,8 @@
         "robots": {
             "data": ["User-agent: *", "Disallow:"]
         }
+    },
+    "styles": {
+        "website": "styles/custom.css"
     }
 }

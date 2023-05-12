@@ -4,7 +4,9 @@ The Social Amherst offers a tranquil and charming living experience for its resi
 Though not located within walking distance of major grocery stores, The Social Amherst remains a popular choice for many, thanks to its reasonable rent, easy access to the PVTA bus route, and close proximity to UMass Amherst, Amherst College, and Hampshire College. The dedicated staff are always ready to address any concerns or issues, ensuring a pleasant and hassle-free experience for residents. With top-quality amenities, including a new dog park and an upcoming gym, The Social Amherst is an ideal choice for those seeking a peaceful and convenient living experience in Amherst.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1WGcUcz4J_MJniWcqP_F8GpFdlwRgV78&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1WGcUcz4J_MJniWcqP_F8GpFdlwRgV78&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent at The Social Amherst ranges from $1,125 to $3,700.

@@ -5,7 +5,9 @@ Nestled in the picturesque town of Sunderland, Sugarloaf Estates is a residentia
 While some residents have raised concerns about maintenance and privacy, others appreciate the friendly community atmosphere and the property's proximity to the University of Massachusetts. The PVTA bus route also provides easy access to nearby areas, further enhancing the location's appeal.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1WG3ZlaUSK2Z9Lj1oyyD4qTCEk0ZTikE&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1WG3ZlaUSK2Z9Lj1oyyD4qTCEk0ZTikE&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent ranges from $2,010 to $2,340.

@@ -5,7 +5,9 @@ Townhouse Apartments is a popular choice for students and young professionals al
 While some residents have expressed concerns about the limited guest parking and occasional noise from neighbors, many appreciate the quick response from the maintenance team and the overall value for the area. Additionally, various local establishments such as the Indian grocery store, Crestview Plaza, House of Teriyaki, and the UMass campus are within a 25-minute walking distance from the property.
 
 On the map, it's conveniently represented here:
-<iframe src="https://www.google.com/maps/d/embed?mid=1iZI2pp4KPUL4NgdxzbauUGJkXyEgQiw&ehbc=2E312F" width="780" height="540"></iframe>
+<div class="responsive-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1iZI2pp4KPUL4NgdxzbauUGJkXyEgQiw&ehbc=2E312F" width="780" height="540"></iframe>
+</div>
 
 #### Key Information
 - **Price Range:** The monthly rent ranges from $1,700 to $2,400.
