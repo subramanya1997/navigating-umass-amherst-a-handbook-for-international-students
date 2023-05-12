@@ -15,4 +15,4 @@ This handbook is not a definitive guide to UMass Amherst or a shortcut to academ
 Welcome to UMass Amherst, and I hope this handbook aids you in your journey.
 
 ---
-*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached [LinkedIn](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
+*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*

@@ -32,4 +32,4 @@ For more information about housing and additional resources, you can check out F
 ---
 Note: *Waitlist fee / Application fee / Adgency Fee / Other fees
 
-*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
+*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*

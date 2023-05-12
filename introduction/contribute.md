@@ -9,3 +9,6 @@ If you're a student living in or around Amherst, we'd appreciate your contributi
 ## Feedback, Errata, and Suggestions
 
 For feedback, errata, and suggestions, the author can be reached [here on LinkedIn](https://www.linkedin.com/in/nsubramanya).
+
+---
+*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
