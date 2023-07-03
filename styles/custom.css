@@ -18,3 +18,7 @@
     overflow: auto;
     display: block;
 }
+
+.book-header .fa-linkedin {
+   color: #0A66C2;
+}

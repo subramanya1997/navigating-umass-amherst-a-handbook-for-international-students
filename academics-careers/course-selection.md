@@ -37,29 +37,29 @@ Remember, the goal is not to survive your academic journey, but to thrive in it.
 #### My course recommendations
 Based on my own experiences, I have compiled a list of courses that I recommend. These courses are challenging but rewarding, providing a practical understanding of academic concepts and equipping you with valuable skills for your future career.
 
-| Course Number | Course Name | Professor | Course Website | Semester |
-|:---:|:---:|:---:|---|---|
-| COMPSCI 514 | Algorithms for Data Science | [Cameron Musco](https://people.cs.umass.edu/~cmusco), [Andrew McGregor](https://people.cs.umass.edu/~mcgregor/) | [Fall 2022]( https://people.cs.umass.edu/~cmusco/CS514F22/), [Spring 2023](https://people.cs.umass.edu/~mcgregor/CS514S23/index.html) | Fall, Spring |
-| COMPSCI 515 | Algorithms, Game Theory and Fairness | [Yair Zick](https://people.cs.umass.edu/~yzick/bio.html) | [Fall 2023](https://people.cs.umass.edu/~yzick/COMPSCI515.html) | Fall |
-| COMPSCI 520 | Theory and Practice of Software Engineering | [Heather M. Conboy](https://people.cs.umass.edu/~hconboy) | [Spring 2023](https://people.cs.umass.edu/~hconboy/class/2023Spring/CS520/) | Fall, Spring |
-| COMPSCI 532 | Systems for Data Science | [Peter F. Klemperer](http://www.peterklemperer.com/blog/), [Hui Guan](https://guanh01.github.io/) | [Fall 2022](https://sites.google.com/umass.edu/compsci532fall22/home), [Spring 2023](https://sites.google.com/umass.edu/compsci-532-klemperer) | Fall, Spring |
-| COMPSCI 546 | Applied Information Retrieval | [Hamed Zamani](https://groups.cs.umass.edu/zamani/) | [Spring 2022](https://groups.cs.umass.edu/zamani/compsci-546-applied-information-retrieval-spring-2022/) | Spring |
-| COMPSCI 560 | Introduction to Computer and Network Security | [Parviz Kermani](https://www.cics.umass.edu/people/kermani-parviz) | [Fall 2023](https://infosec.cs.umass.edu/content/compsci-560-introduction-computer-network-security-0) | Fall |
-| COMPSCI 574/674 | Intelligent Visual Computing | [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/) | [Spring 2023](https://people.cs.umass.edu/~kalo/courses/visual_computing/index.html) | Spring |
-| COMPSCI 576 | Game Programming | [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/) | [Fall 2022](https://people.cs.umass.edu/~kalo/courses/game_programming/index.html) | Fall |
-| COMPSCI 578 | Cloud and Distributed Computing | [Arun Venkataramani](https://people.cs.umass.edu/~arun/index.html) | [Fall 2021](https://sites.google.com/view/cs590cc-f21) | Fall |
-| COMPSCI 589 | Machine Learning | [Hui Guan](https://guanh01.github.io/), [Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva) | [Fall 2023](https://sites.google.com/umass.edu/compsci589-fall23/home), [Spring 2023](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_589/Spring2023/index.html)  | Fall, Spring |
-| COMPSCI 603 | Robotics | [Hao Zhang](https://hcr.cs.umass.edu/people/hzhang/) | N/A | Spring |
-| COMPSCI 611 | Advanced Algorithms | [Hung Le](https://hunglvosu.github.io) | [Spring 2023](https://hunglvosu.github.io/posts/2023/04/Syllabus-Algs/) | Fall, Spring |
-| COMPSCI 630 | Systems |[Emery Berger](https://emeryberger.com) | [Spring 2023](https://emeryberger.github.io/COMPSCI-630/) | Spring |
-| COMPSCI 646 | Information Retrieval | [Hamed Zamani](https://groups.cs.umass.edu/zamani/) | [Fall 2023](https://groups.cs.umass.edu/zamani/compsci-646-information-retrieval-fall-2023/), [Fall 2022](https://groups.cs.umass.edu/zamani/compsci-646-information-retrieval-fall-2022/) | Fall |
-| COMPSCI 651 | Optimization in Computer Science | [Madalina Fiterau](https://people.cs.umass.edu/~mfiterau/OPT-S23.html) | [Spring 2023](https://people.cs.umass.edu/~mfiterau/OPT-S23.html) | Spring |
-| COMPSCI 677 | Distributed and Operating Systems | [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/) | [Spring 2023](https://none.cs.umass.edu/~shenoy/courses/677/) | Spring |
-| COMPSCI 682 |	Neural Networks: A Modern Introduction | [Subhransu Maji](https://people.cs.umass.edu/~smaji/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/#sect-software) | N/A | Fall |
-| COMPSCI 683 | Artificial Intelligence | [Yair Zick](https://people.cs.umass.edu/~yzick/bio.html) | [Spring 2023](https://people.cs.umass.edu/~yzick/COMPSCI683.html) | Spring |
-| COMPSCI 685 | Advanced Natural Language Processing | [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) | [Spring 2023](https://people.cs.umass.edu/~miyyer/cs685/) | Spring |
-| COMPSCI 687 | Reinforcement Learning | [Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva) | [Fall 2023](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_687/Fall2023/) | Fall |
-| COMPSCI 689 | Machine Learning | [Benjamin Marlin](https://groups.cs.umass.edu/marlin/) | [Fall 2023](https://groups.cs.umass.edu/marlin/2023/04/10/compsci-689-machine-learning-fall-2023/) | Fall |
+| Course Number | Course Name | Professor | Course Website | Semester | Recommendation Level |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| COMPSCI 514 | Algorithms for Data Science | [Cameron Musco](https://people.cs.umass.edu/~cmusco), [Andrew McGregor](https://people.cs.umass.edu/~mcgregor/) | [Fall 2022]( https://people.cs.umass.edu/~cmusco/CS514F22/), [Spring 2023](https://people.cs.umass.edu/~mcgregor/CS514S23/index.html) | Fall, Spring | ★★★★★ |
+| COMPSCI 515 | Algorithms, Game Theory and Fairness | [Yair Zick](https://people.cs.umass.edu/~yzick/bio.html) | [Fall 2023](https://people.cs.umass.edu/~yzick/COMPSCI515.html) | Fall | ★★★★ |
+| COMPSCI 520 | Theory and Practice of Software Engineering | [Heather M. Conboy](https://people.cs.umass.edu/~hconboy) | [Spring 2023](https://people.cs.umass.edu/~hconboy/class/2023Spring/CS520/) | Fall, Spring | ★★★ |
+| COMPSCI 532 | Systems for Data Science | [Peter F. Klemperer](http://www.peterklemperer.com/blog/), [Hui Guan](https://guanh01.github.io/) | [Fall 2022](https://sites.google.com/umass.edu/compsci532fall22/home), [Spring 2023](https://sites.google.com/umass.edu/compsci-532-klemperer) | Fall, Spring | ★★★ |
+| COMPSCI 546 | Applied Information Retrieval | [Hamed Zamani](https://groups.cs.umass.edu/zamani/) | [Spring 2022](https://groups.cs.umass.edu/zamani/compsci-546-applied-information-retrieval-spring-2022/) | Spring | ★★★ |
+| COMPSCI 560 | Introduction to Computer and Network Security | [Parviz Kermani](https://www.cics.umass.edu/people/kermani-parviz) | [Fall 2023](https://infosec.cs.umass.edu/content/compsci-560-introduction-computer-network-security-0) | Fall | ★★★ |
+| COMPSCI 574/674 | Intelligent Visual Computing | [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/) | [Spring 2023](https://people.cs.umass.edu/~kalo/courses/visual_computing/index.html) | Spring | ★★★★★ |
+| COMPSCI 576 | Game Programming | [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/) | [Fall 2022](https://people.cs.umass.edu/~kalo/courses/game_programming/index.html) | Fall | ★★★ |
+| COMPSCI 578 | Cloud and Distributed Computing | [Arun Venkataramani](https://people.cs.umass.edu/~arun/index.html) | [Fall 2021](https://sites.google.com/view/cs590cc-f21) | Fall | ★★★★ |
+| COMPSCI 589 | Machine Learning | [Hui Guan](https://guanh01.github.io/), [Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva) | [Fall 2023](https://sites.google.com/umass.edu/compsci589-fall23/home), [Spring 2023](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_589/Spring2023/index.html)  | Fall, Spring | ★★★★★ |
+| COMPSCI 603 | Robotics | [Hao Zhang](https://hcr.cs.umass.edu/people/hzhang/) | N/A | Spring | ★★★★ |
+| COMPSCI 611 | Advanced Algorithms | [Hung Le](https://hunglvosu.github.io) | [Spring 2023](https://hunglvosu.github.io/posts/2023/04/Syllabus-Algs/) | Fall, Spring | ★★★★ |
+| COMPSCI 630 | Systems |[Emery Berger](https://emeryberger.com) | [Spring 2023](https://emeryberger.github.io/COMPSCI-630/) | Spring | ★★★★ |
+| COMPSCI 646 | Information Retrieval | [Hamed Zamani](https://groups.cs.umass.edu/zamani/) | [Fall 2023](https://groups.cs.umass.edu/zamani/compsci-646-information-retrieval-fall-2023/), [Fall 2022](https://groups.cs.umass.edu/zamani/compsci-646-information-retrieval-fall-2022/) | Fall | ★★★★ |
+| COMPSCI 651 | Optimization in Computer Science | [Madalina Fiterau](https://people.cs.umass.edu/~mfiterau/OPT-S23.html) | [Spring 2023](https://people.cs.umass.edu/~mfiterau/OPT-S23.html) | Spring | ★★★★ |
+| COMPSCI 677 | Distributed and Operating Systems | [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/) | [Spring 2023](https://none.cs.umass.edu/~shenoy/courses/677/) | Spring | ★★★★★ |
+| COMPSCI 682 |	Neural Networks: A Modern Introduction | [Subhransu Maji](https://people.cs.umass.edu/~smaji/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/#sect-software) | N/A | Fall | ★★★★ |
+| COMPSCI 683 | Artificial Intelligence | [Yair Zick](https://people.cs.umass.edu/~yzick/bio.html) | [Spring 2023](https://people.cs.umass.edu/~yzick/COMPSCI683.html) | Spring | ★★★★ |
+| COMPSCI 685 | Advanced Natural Language Processing | [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) | [Spring 2023](https://people.cs.umass.edu/~miyyer/cs685/) | Spring | ★★★★★ |
+| COMPSCI 687 | Reinforcement Learning | [Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva) | [Fall 2023](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_687/Fall2023/) | Fall | ★★★★★ |
+| COMPSCI 689 | Machine Learning | [Benjamin Marlin](https://groups.cs.umass.edu/marlin/) | [Fall 2023](https://groups.cs.umass.edu/marlin/2023/04/10/compsci-689-machine-learning-fall-2023/) | Fall | ★★★★★ |
 
 
 Remember, while these courses are challenging, they offer a wealth of knowledge and practical experience that can be directly applied to your future career. In line with my personal strategy, I would suggest taking two 600-level courses and one 500-level course each semester. This combination allows for a balanced workload, providing the opportunity to delve into more complex topics while still ensuring you have the time and energy to dedicate to each course.
