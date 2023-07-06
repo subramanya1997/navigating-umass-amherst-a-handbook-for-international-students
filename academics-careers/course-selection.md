@@ -23,17 +23,6 @@ Courses with a substantial project component are especially valuable. These cour
 
 Lastly, undertaking challenging courses allows you to acquire a depth of knowledge that can give you an advantage in job interviews. Discussing complex subjects showcases your understanding of the subject matter and reflects your passion and commitment to learning. Although the journey might be tougher, the rewards of taking harder courses are significant. They contribute to both personal growth and career advancement, making the journey a rewarding experience.
 
-#### Key Takeaways: My top tips for course selection
-**1. Understand your capabilities:** It's essential to gauge your limits accurately and select a course load that aligns with your academic goals and personal strengths. Be realistic about the workload you can handle to avoid burnout.
-
-**2. Embrace Challenge:** Don't shy away from more demanding courses. They can broaden your interests, open up new opportunities, and equip you with a depth of knowledge that can give you an edge in your future career.
-
-**3. Explore Interdisciplinary Learning:** Computer science is a versatile tool applicable across various fields. Enroll in courses outside your primary area of interest to deepen your understanding and open up new avenues.
-
-**4. Prioritize Project-Based Courses:** Courses with a heavy project component provide a practical understanding of academic concepts and serve as tangible proof of your skills, making a great addition to your resume.
-
-Remember, the goal is not to survive your academic journey, but to thrive in it. Aim for a balance that allows you to explore your interests, fulfill your requirements, and prepare for your future career.
-
 #### My course recommendations
 Based on my own experiences, I have compiled a list of courses that I recommend. These courses are challenging but rewarding, providing a practical understanding of academic concepts and equipping you with valuable skills for your future career.
 
@@ -47,7 +36,7 @@ Based on my own experiences, I have compiled a list of courses that I recommend.
 | COMPSCI 560 | Introduction to Computer and Network Security | [Parviz Kermani](https://www.cics.umass.edu/people/kermani-parviz) | [Fall 2023](https://infosec.cs.umass.edu/content/compsci-560-introduction-computer-network-security-0) | Fall | ★★★ |
 | COMPSCI 574/674 | Intelligent Visual Computing | [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/) | [Spring 2023](https://people.cs.umass.edu/~kalo/courses/visual_computing/index.html) | Spring | ★★★★★ |
 | COMPSCI 576 | Game Programming | [Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/) | [Fall 2022](https://people.cs.umass.edu/~kalo/courses/game_programming/index.html) | Fall | ★★★ |
-| COMPSCI 578 | Cloud and Distributed Computing | [Arun Venkataramani](https://people.cs.umass.edu/~arun/index.html) | [Fall 2021](https://sites.google.com/view/cs590cc-f21) | Fall | ★★★★ |
+| COMPSCI 578 | Cloud and Distributed Computing | [Arun Venkataramani](https://people.cs.umass.edu/~arun/index.html) | [Fall 2021](https://sites.google.com/view/cs590cc-f21) | Fall | ★★★★★ |
 | COMPSCI 589 | Machine Learning | [Hui Guan](https://guanh01.github.io/), [Bruno Castro da Silva](https://people.cs.umass.edu/~bsilva) | [Fall 2023](https://sites.google.com/umass.edu/compsci589-fall23/home), [Spring 2023](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_589/Spring2023/index.html)  | Fall, Spring | ★★★★★ |
 | COMPSCI 603 | Robotics | [Hao Zhang](https://hcr.cs.umass.edu/people/hzhang/) | N/A | Spring | ★★★★ |
 | COMPSCI 611 | Advanced Algorithms | [Hung Le](https://hunglvosu.github.io) | [Spring 2023](https://hunglvosu.github.io/posts/2023/04/Syllabus-Algs/) | Fall, Spring | ★★★★ |
