@@ -25,3 +25,7 @@ The important thing is not to get disheartened if these brand names elude you. I
 UMass also boasts a diverse and successful alumni network, which can be an invaluable resource during the job hunt. I had the opportunity to connect with distinguished individuals like [Nari Kannan](https://www.linkedin.com/in/nari-kannan-55993) from Amazon, [Esha Sahai](https://www.linkedin.com/in/eshasahai), Founding General Partner at Flamenco Ventures, and even had lunch with [Gavin Andresen](https://www.linkedin.com/in/gavin-andresen-6987971), the former Chief Scientist at the BitCoin Foundation, and [Jim Flynn](https://www.linkedin.com/in/jamespeterf/), Program Director at MIT. These interactions were not just insightful but also inspiring.
 
 Therefore, don't shy away from reaching out. At most, people might say no, but the potential gains far outweigh the risks. Be proactive and take advantage of the resources available to you. After all, your career journey is about carving your path, and such interactions can provide invaluable guidance.
+
+---
+
+*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
