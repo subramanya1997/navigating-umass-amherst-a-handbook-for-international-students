@@ -1,3 +1,0 @@
-## The Job and Internship Hunt - Navigating the Maze
-
-Coming soon...
