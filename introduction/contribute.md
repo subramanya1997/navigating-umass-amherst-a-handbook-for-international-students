@@ -19,7 +19,5 @@ For feedback, errata, and suggestions, the author can be reached [here on Linked
     </form>
 </div>
 
-<script src="../assets/newsletter.js" defer></script>
-
 ---
 *This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*

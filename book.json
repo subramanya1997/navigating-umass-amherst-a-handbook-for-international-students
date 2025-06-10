@@ -12,13 +12,13 @@
             "pathSuffix": "/navigating-umass-amherst-a-handbook-for-international-students/"
         },
         "robots": {
-            "data": ["User-agent: *", "Disallow:"]
+            "data": [
+                "User-agent: *",
+                "Disallow:"
+            ]
         }
     },
     "styles": {
         "website": "styles/custom.css"
-    },
-    "assets": {
-        "js": ["assets/newsletter.js"]
     }
 }

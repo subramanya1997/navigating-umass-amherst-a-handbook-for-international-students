@@ -39,8 +39,6 @@ On the map, it's conveniently represented here:
     </form>
 </div>
 
-<script src="../assets/newsletter.js" defer></script>
-
 ---
 Note: 
 *All ratings mentioned are on a scale of 5.

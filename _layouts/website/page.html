@@ -1,0 +1,6 @@
+{% extends template.self %}
+
+{% block body %}
+    {{ super() }}
+    <script src="{{ '../assets/newsletter.js'|resolveFile }}" defer></script>
+{% endblock %} 
