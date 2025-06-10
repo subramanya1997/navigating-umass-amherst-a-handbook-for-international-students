@@ -10,5 +10,16 @@ If you're a student living in or around Amherst, we'd appreciate your contributi
 
 For feedback, errata, and suggestions, the author can be reached [here on LinkedIn](https://www.linkedin.com/in/nsubramanya).
 
+<div class="new-newsletter">
+    <h4>🎓 Your UMass Journey, Simplified</h4>
+    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
+    <form class="newsletter-form">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
+    </form>
+</div>
+
+<script src="../assets/newsletter.js" defer></script>
+
 ---
 *This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*

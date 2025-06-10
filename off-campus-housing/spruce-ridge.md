@@ -21,6 +21,17 @@ On the map, it's conveniently represented here:
 - **Dislikes:** Some concerns include a lack of community, and one or two of the four bedrooms being in the basement, which can be colder during the winter.
 - **Overall Satisfaction:** Taking all factors into account, Spruce Ridge holds a satisfaction rating of 4.
 
+<div class="new-newsletter">
+    <h4>🎓 Your UMass Journey, Simplified</h4>
+    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
+    <form class="newsletter-form">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
+    </form>
+</div>
+
+<script src="../assets/newsletter.js" defer></script>
+
 ---
 Note: 
 *All ratings mentioned are on a scale of 5.

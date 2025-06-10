@@ -21,6 +21,17 @@ On the map, it's conveniently represented here:
 - **Dislikes:** Some concerns include the proximity to the railway, which can make the area noisy at times.
 - **Overall Satisfaction:** Taking all factors into account, Center East Commons holds a satisfaction rating of 4.
 
+<div class="new-newsletter">
+    <h4>🎓 Your UMass Journey, Simplified</h4>
+    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
+    <form class="newsletter-form">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
+    </form>
+</div>
+
+<script src="../assets/newsletter.js" defer></script>
+
 ---
 Note: 
 *All ratings mentioned are on a scale of 5.

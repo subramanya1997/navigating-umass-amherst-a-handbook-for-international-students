@@ -33,6 +33,17 @@ On the map, it's conveniently represented here:
 | ![Floor Plan 3](/assets/pufftonvillage_floorplan_3.png) | 960 | 3bd/1ba |
 | ![Floor Plan 4](/assets/pufftonvillage_floorplan_4.png) | 1200 | 3bd/2ba |
 
+<div class="new-newsletter">
+    <h4>🎓 Your UMass Journey, Simplified</h4>
+    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
+    <form class="newsletter-form">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
+    </form>
+</div>
+
+<script src="../assets/newsletter.js" defer></script>
+
 ---
 Note: 
 *All ratings mentioned are on a scale of 5.

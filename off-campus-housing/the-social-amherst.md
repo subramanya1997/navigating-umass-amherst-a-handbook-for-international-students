@@ -32,6 +32,17 @@ On the map, it's conveniently represented here:
 | ![Floor Plan 2](/assets/the_social_amherst_floorplan_2.png) | 1023 | 2bd/1.5ba |
 | ![Floor Plan 3](/assets/the_social_amherst_floorplan_3.png) | 870 | 3bd/1.5ba |
 
+<div class="new-newsletter">
+    <h4>🎓 Your UMass Journey, Simplified</h4>
+    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
+    <form class="newsletter-form">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
+    </form>
+</div>
+
+<script src="../assets/newsletter.js" defer></script>
+
 ---
 Note: 
 *All ratings mentioned are on a scale of 5.

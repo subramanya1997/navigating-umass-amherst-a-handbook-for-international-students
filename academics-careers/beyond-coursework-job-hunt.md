@@ -1,6 +1,6 @@
 ## Beyond Coursework and Job Hunt
 
-The academic journey at UMass Amherst extends far beyond lectures and assignments—it’s about venturing into uncharted territories, challenging the boundaries of learning, and maximizing every available opportunity. As a graduate student in computer science at UMass Amherst, I’ve discovered that initiatives such as independent studies, projects, and the job hunt process are not just complements to coursework, but essential elements of a comprehensive academic and professional growth experience.
+The academic journey at UMass Amherst extends far beyond lectures and assignments—it's about venturing into uncharted territories, challenging the boundaries of learning, and maximizing every available opportunity. As a graduate student in computer science at UMass Amherst, I've discovered that initiatives such as independent studies, projects, and the job hunt process are not just complements to coursework, but essential elements of a comprehensive academic and professional growth experience.
 
 #### My Diving Board: Independent Studies and Projects
 
@@ -25,6 +25,17 @@ The important thing is not to get disheartened if these brand names elude you. I
 UMass also boasts a diverse and successful alumni network, which can be an invaluable resource during the job hunt. I had the opportunity to connect with distinguished individuals like [Nari Kannan](https://www.linkedin.com/in/nari-kannan-55993) from Amazon, [Esha Sahai](https://www.linkedin.com/in/eshasahai), Founding General Partner at Flamenco Ventures, and even had lunch with [Gavin Andresen](https://www.linkedin.com/in/gavin-andresen-6987971), the former Chief Scientist at the BitCoin Foundation, and [Jim Flynn](https://www.linkedin.com/in/jamespeterf/), Program Director at MIT. These interactions were not just insightful but also inspiring.
 
 Therefore, don't shy away from reaching out. At most, people might say no, but the potential gains far outweigh the risks. Be proactive and take advantage of the resources available to you. After all, your career journey is about carving your path, and such interactions can provide invaluable guidance.
+
+<div class="new-newsletter">
+    <h4>🎓 Your UMass Journey, Simplified</h4>
+    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
+    <form class="newsletter-form">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
+    </form>
+</div>
+
+<script src="../assets/newsletter.js" defer></script>
 
 ---
 

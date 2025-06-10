@@ -17,5 +17,8 @@
     },
     "styles": {
         "website": "styles/custom.css"
+    },
+    "assets": {
+        "js": ["assets/newsletter.js"]
     }
 }

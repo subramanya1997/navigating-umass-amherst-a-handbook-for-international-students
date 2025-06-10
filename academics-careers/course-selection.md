@@ -67,6 +67,17 @@ Remember, while these courses are challenging, they offer a wealth of knowledge 
 - [Rate my Professor](https://www.ratemyprofessors.com/school/1513): This is a great resource for finding out more about professors and their teaching styles.
 - [Independent studies](https://docs.google.com/document/d/1QWxwLsJn5udRvF3nJDmzJCS_Wu5h7fgJ8TAKRFOweic/edit#heading=h.4ipdvpb79fc7): This document provides information about independent studies and how to enroll in them.
 
+<div class="new-newsletter">
+    <h4>🎓 Your UMass Journey, Simplified</h4>
+    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
+    <form class="newsletter-form">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
+    </form>
+</div>
+
+<script src="../assets/newsletter.js" defer></script>
+
 ---
 
 *This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*

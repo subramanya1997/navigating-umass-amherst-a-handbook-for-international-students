@@ -8,6 +8,17 @@ Embarking on the academic and career journey as an international student at UMas
 
 Remember, this journey is unique to everyone. My experiences are just one perspective, and your journey will be shaped by your own choices, interests, and experiences. But I hope that my stories and advice can provide some guidance and reassurance as you navigate your own path at UMass Amherst.
 
+<div class="new-newsletter">
+    <h4>🎓 Your UMass Journey, Simplified</h4>
+    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
+    <form class="newsletter-form">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
+    </form>
+</div>
+
+<script src="../assets/newsletter.js" defer></script>
+
 ---
 
 *This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
