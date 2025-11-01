@@ -31,16 +31,9 @@ Here's a list of popular off-campus housing options near UMass Amherst, includin
 
 For more information about housing and additional resources, you can check out Facebook groups like [Amherst, Massachusetts Apartments, Subleases, Roommates, Homes, Rentals](https://www.facebook.com/groups/2086810618274272) and [University of Massachusetts Amherst (UMASS) Housing, Sublets & Roommates](https://www.facebook.com/groups/905699786138206). These groups not only provide insights into various housing options but also feature sublet postings, roommate searches, and other helpful resources. By staying connected with these groups, you can make a more informed decision based on real-life experiences and find the ideal off-campus housing or sublet opportunity near UMass Amherst.
 
-<div class="new-newsletter">
-    <h4>🎓 Your UMass Journey, Simplified</h4>
-    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
-    <form class="newsletter-form">
-        <input type="email" name="email" placeholder="Your email address" required>
-        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
-    </form>
-</div>
+{% include "../templates/newsletter.md" %}
 
 ---
 Note: *Waitlist fee / Application fee / Adgency Fee / Other fees
 
-*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
+{% include "../templates/footer.md" %}

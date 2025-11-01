@@ -26,15 +26,7 @@ UMass also boasts a diverse and successful alumni network, which can be an inval
 
 Therefore, don't shy away from reaching out. At most, people might say no, but the potential gains far outweigh the risks. Be proactive and take advantage of the resources available to you. After all, your career journey is about carving your path, and such interactions can provide invaluable guidance.
 
-<div class="new-newsletter">
-    <h4>🎓 Your UMass Journey, Simplified</h4>
-    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
-    <form class="newsletter-form">
-        <input type="email" name="email" placeholder="Your email address" required>
-        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
-    </form>
-</div>
+{% include "../templates/newsletter.md" %}
 
 ---
-
-*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
+{% include "../templates/footer.md" %}

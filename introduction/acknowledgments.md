@@ -8,14 +8,7 @@ A heartfelt thank you to:
 
 Again, thank you to everyone who has played a part in this journey. Your contributions have made this handbook a reality.
 
-<div class="new-newsletter">
-    <h4>🎓 Your UMass Journey, Simplified</h4>
-    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
-    <form class="newsletter-form">
-        <input type="email" name="email" placeholder="Your email address" required>
-        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
-    </form>
-</div>
+{% include "../templates/newsletter.md" %}
 
 ---
-*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
+{% include "../templates/footer.md" %}

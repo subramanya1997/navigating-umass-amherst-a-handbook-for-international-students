@@ -30,17 +30,10 @@ On the map, it's conveniently represented here:
 | ![Floor Plan 1](/assets/renew_floorplan_1.jpeg) | 875 | 1bd/1ba |
 | ![Floor Plan 2](/assets/renew_floorplan_2.jpeg) | 900 | 2bd/1ba |
 
-<div class="new-newsletter">
-    <h4>🎓 Your UMass Journey, Simplified</h4>
-    <p>Unlock exclusive tips on courses, housing, and life as an international student at UMass. Join our community!</p>
-    <form class="newsletter-form">
-        <input type="email" name="email" placeholder="Your email address" required>
-        <button type="submit" class="newsletter-btn">Get Insider Tips</button>
-    </form>
-</div>
+{% include "../templates/newsletter.md" %}
 
 ---
 Note: 
 *All ratings mentioned are on a scale of 5.
 
-*This book was created by [Subramanya Nagabhushanaradhya](https://subramanya.ai) with the help of wonderful friends. For feedback, errata and suggestions, the author can be reached on [linkedin](https://www.linkedin.com/in/nsubramanya). copyright ©2023 Subramanya Nagabhushanaradhya*
+{% include "../templates/footer.md" %}

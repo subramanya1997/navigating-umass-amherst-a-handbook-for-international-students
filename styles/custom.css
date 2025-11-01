@@ -377,54 +377,118 @@
 }
 
 .new-newsletter {
-    background-color: #f7f8fa;
-    border: 1px solid #e3e6e8;
-    border-radius: 12px;
-    padding: 2rem;
-    margin: 2rem auto;
-    max-width: 600px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 0;
+    padding: 3rem 1rem;
+    margin: 3rem auto;
+    max-width: 800px;
     text-align: center;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
 
 .new-newsletter h4 {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #2c3e50;
-    margin-bottom: 0.75rem;
+    font-size: 1.75rem;
+    font-weight: 400;
+    color: #1a1a1a;
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
 }
 
 .new-newsletter p {
-    font-size: 1rem;
-    color: #576574;
-    margin-bottom: 1.5rem;
-    line-height: 1.6;
+    display: none;
 }
 
 .new-newsletter .newsletter-form {
     display: flex;
-    gap: 0.5rem;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 .new-newsletter input[type="email"] {
-    flex-grow: 1;
+    flex: 1;
+    max-width: 400px;
     border: 1px solid #d1d5db;
-    border-radius: 8px;
-    padding: 0.75rem 1rem;
+    border-radius: 4px;
+    padding: 0.875rem 1.25rem;
     font-size: 1rem;
+    background-color: #ffffff;
+}
+
+.new-newsletter input[type="email"]:focus {
+    outline: none;
+    border-color: #4169e1;
 }
 
 .new-newsletter .newsletter-btn {
-    background-color: #3498db;
+    background-color: #4169e1;
     color: white;
     border: none;
-    border-radius: 8px;
-    padding: 0.75rem 1.5rem;
-    font-weight: 600;
+    border-radius: 4px;
+    padding: 0.875rem 2rem;
+    font-weight: 500;
+    font-size: 1rem;
     cursor: pointer;
     transition: background-color 0.2s;
+    white-space: nowrap;
 }
 
 .new-newsletter .newsletter-btn:hover {
-    background-color: #2980b9;
+    background-color: #3154c6;
+}
+
+.new-newsletter .newsletter-btn:disabled {
+    background-color: #94a3b8;
+    cursor: not-allowed;
+}
+
+/* Book Attribution Section */
+.book-attribution {
+    text-align: center;
+    padding: 1rem 1rem 0.5rem;
+    margin: 1.5rem auto 1rem;
+    max-width: 800px;
+    color: #64748b;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    border-top: none;
+}
+
+.book-attribution a {
+    color: #4169e1;
+    text-decoration: none;
+}
+
+.book-attribution a:hover {
+    text-decoration: underline;
+}
+
+/* Utterances Comments Section */
+.comments-section {
+    max-width: 900px;
+    margin: 1.5rem auto 2rem;
+    padding: 0 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .new-newsletter .newsletter-form {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+    
+    .new-newsletter input[type="email"] {
+        max-width: 100%;
+        width: 100%;
+    }
+    
+    .new-newsletter .newsletter-btn {
+        width: 100%;
+    }
+    
+    .new-newsletter h4 {
+        font-size: 1.35rem;
+    }
 }
