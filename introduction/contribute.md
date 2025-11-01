@@ -1,6 +1,9 @@
+---
+comments: false
+---
 # Contribute
 
-Feel free to contribute to this book by creating a pull request or opening an issue on [GitHub](https://github.com/subramanya1997/navigating-umass-amherst-a-handbook-for-international-students). 
+Feel free to contribute to this guide by creating a pull request or opening an issue on [GitHub](https://github.com/subramanya1997/navigating-umass-amherst-a-handbook-for-international-students). 
 
 ## Amherst Housing Survey
 

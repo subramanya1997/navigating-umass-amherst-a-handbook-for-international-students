@@ -272,5 +272,17 @@ const umassNewsletter = new UMassNewsletter();
 window.UMassNewsletter = UMassNewsletter;
 window.umassNewsletter = umassNewsletter;
 
+// Reinitialize forms on HonKit page navigation
+if (typeof require !== 'undefined') {
+    require(['gitbook'], function(gitbook) {
+        gitbook.events.bind('page.change', function() {
+            // Small delay to ensure the new page content is rendered
+            setTimeout(() => {
+                umassNewsletter.initializeForms();
+            }, 100);
+        });
+    });
+}
+
 // For debugging - you can run this in browser console
 // umassNewsletter.testAllMethods('your-email@example.com'); 
